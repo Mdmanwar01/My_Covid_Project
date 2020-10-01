@@ -1,2 +1,2 @@
 # My_Covid_Project
-Its a pandemic project to analysis the data of covid cases, and every types of repot with Python.
+It's a covid 19 Pandemic project to analysis the data, and every types of repot with Python.
